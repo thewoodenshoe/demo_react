@@ -1,0 +1,20 @@
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 50px;
+}
+
+.App-link {
+  color: black;
+  margin: 15px;
+  padding: 1px 7px;
+  text-decoration: none;
+  font-family: Arial;
+  .active {
+    color: red;
+    background-color: red;
+  }
+}
+
+.App-demo {
+  color: red;
+}
